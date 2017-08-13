@@ -1,4 +1,3 @@
-@include('templates.admin.content')
 @section('category_list')
 <!-- Список категорий -->
 <div class="panel panel-success">
